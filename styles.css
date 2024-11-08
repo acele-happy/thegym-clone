@@ -80,7 +80,7 @@ li {
     left: 20px;
 }
 .hero {
-    background: url("assets/hero_bg.jpeg") no-repeat center center/cover;
+    background: url("https://forever.travel-assets.com/flex/flexmanager/images/2024/03/06/VRBO_OOH_TRUST_LISBON_HOUSE_NATACHA_WIDE_BACKDOOR_HUMM_0004.jpg") no-repeat center center/cover;
     background-color: #00000090;
     background-blend-mode:color-burn;
     height: 100vh;
@@ -180,7 +180,7 @@ main {
 }
 
 .image-one {
-    background: url("assets/image1.jpeg") no-repeat center center/cover;
+    background: url("https://mediaim.expedia.com/destination/9/5c20afe6e6bb2b8995e3c02518dab860.jpg") no-repeat center center/cover;
     background-color: #0000001d;
     background-blend-mode:color-burn;
     
@@ -252,10 +252,10 @@ h1 span{
 }
 
 .card3{
-margin-right: 5px;
+margin-right: 25px;
 }
 .card3 img{
-    width: 290px;
+    width: 250px;
     height: 200px;
     border-radius: 10px;
 }
@@ -263,8 +263,20 @@ margin-right: 5px;
     font-size: 12px;
 }
 .line1 span{
-    background-color: green;
+    background-color: #227950;
     padding: 5px;
     color: #fff;
-    border-radius: 5px;
+    border-radius: 4px;
+}
+.line1 small{
+    font-size: 12px;
+    color: #333;
+}
+.line1{
+    color: #333;
+}
+
+.line2{
+    font-weight: bold;
+    width: 270px;
 }
